@@ -14,4 +14,4 @@ Here the line chart Outcomes vs Goals
 ### Outcomes Based on Launch Date
 The funding time is better from May through August based on the Outcomes Based on Launch Date.  The Successful funding is best during the month of May.
 ### Outcomes Base on Goals
-Percentage Successful and Percentage Failed are intertwined that its hard to predict the success of the play based on the goal.
+Percentage Successful and Percentage Failed are intertwined, that makes it hard to predict the success of the play based on the goal.
