@@ -11,3 +11,7 @@ Here is the line chart Outcomes vs Launch:
 Here the line chart Outcomes vs Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98991575/183307878-e2707005-ab71-431d-a860-d99550b5677f.png)
 ## Results
+### Outcomes Based on Launch Date
+The funding time is better from May through August based on the Outcomes Based on Launch Date.  The Successful funding is best during the month of May.
+### Outcomes Base on Goals
+Percentage Successful and Percentage Failed are intertwined that its hard to predict the success of the play based on the goal.
